@@ -1,0 +1,40 @@
+.navbar{
+    /* background-color: rgba(44, 26, 26, 0.203); */
+    background-image: url('pood2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.row{
+  padding: 40px;
+    /* background-image: url('guitar1.jpg'); */
+}
+
+.taylor{
+    background-image: url('backtay3.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  background-size: cover;
+}
+
+.harry{
+    
+    background-image: url('backharr3.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  background-size: cover;
+}
+
+.arcticmonkeys{
+    background-image: url('backarc2.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  background-size: cover;
+}
+ 
+.navbar-nav li a{
+    padding: 10px;
+    margin: 5px;
+    background-image: url('nav2.jpg');
+    border-radius: 20px;
+}
+

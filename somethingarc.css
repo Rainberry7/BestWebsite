@@ -1,0 +1,41 @@
+body{
+    
+    background-image: url('peakpx.jpg');
+    background-repeat: no-repeat;
+    /* background-attachment: fixed; */
+  background-size: cover;
+  height: 1300px;
+}
+
+
+ .container{
+  display: flex;
+  justify-content: center;
+ }
+
+
+ .insta{
+  height: 100px;
+  width: 100px;
+  text-align: center;
+  justify-content: center;
+  border-radius: 30px;
+ }
+ .youtube{
+  height: 100px;
+  width: 100px;
+  text-align: center;
+  justify-content: center;
+  border-radius: 30px;
+ }
+
+ .arctic{
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+ }
+
+ h1{
+  padding: 30px;
+  text-align: center;
+ }
